@@ -1,3 +1,4 @@
+---Remove null and insert new data
 SELECT 
     Customer_ID,
     Gender,
