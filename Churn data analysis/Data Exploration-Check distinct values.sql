@@ -1,3 +1,5 @@
+---Data Exploration-Check distinct values
+
 ---select * from stg_churn
 
 Select Gender, Count(Gender) as TotalCount,
